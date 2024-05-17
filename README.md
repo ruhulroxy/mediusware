@@ -5,5 +5,6 @@
 - php artisan key:generate
 - create .env file and config database
 - php artisan migrate
+- php artisan serve
 - npm install && npm run dev
 - create user and login
